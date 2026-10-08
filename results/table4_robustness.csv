@@ -1,0 +1,4 @@
+Attack,Error (MAE)
+Salt-and-pepper noise (1%),2.142938995361328
+Gaussian noise (sigma=10),81.29427973429361
+Cropping (12.5%),19.07420196533203
